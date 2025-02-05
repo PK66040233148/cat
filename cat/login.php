@@ -80,7 +80,7 @@ rgb(174, 0, 255), /* Bottom Left - Orange */
         <input type="text" class="form-control" id="username" name="username" required>
       </div>
       <div class="mb-3">
-        <label for="password" class="form-label">รหัสผ่าน</label>  <span style="color: white;">0000 a</span>
+        <label for="password" class="form-label">รหัสผ่าน</label>
         <input type="password" class="form-control" id="password" name="password" required>
       </div>
      
